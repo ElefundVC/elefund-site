@@ -65,6 +65,45 @@
     "description": "Launched in November of 2014, Hotel Engine is a Denver-grown startup with the mission to provide meaningful innovation and exclusive savings for the nation's traveling workforce.\n\nToday, Hotel Engine empowers companies to save and streamline instantly - connecting hundreds of companies with thousands of travelers and hotel partners to an exclusive membership platform."
   },
   {
+    "id": "canopy",
+    "name": "Canopy Connect",
+    "stage": "seed",
+    "year": "2020",
+    "logo": "canopy-connect-white.png",
+    "sector": "Insurance Technology",
+    "stage_info": "Seed, 2020",
+    "hostname": "usecanopy.com",
+    "url": "https://usecanopy.com/",
+    "crunchbase_url": "",
+    "description": "Canopy Connect beleives consumers deserve delightful, intelligent and frictionless insurance services. We think insurance should be personalized and proactive. Their mission is to enable cutting-edge insurance experiences. Their technology empowers insurance agencies and innovators to deliver modern, personalized insurance services."
+  },
+  {
+    "id": "everywhere",
+    "name": "Everywhere Apperal",
+    "stage": "seed",
+    "year": "2020",
+    "logo": "everywherewhite.png",
+    "sector": "Consumer Apperal",
+    "stage_info": "Seed, 2020",
+    "hostname": "everywhere.us",
+    "url": "https://everywhere.us/",
+    "crunchbase_url": "",
+    "description": "Everywhere produces consumer apparel made from 100% recycled materials. It is striving to become the leading provider of recycled apparel produced in the USA. They are building a vertically integrated USA based recycling system around textile waste."
+  },
+  {
+    "id": "branch",
+    "name": "Branch Financial",
+    "stage": "series_a",
+    "year": "2020",
+    "logo": "branch.png",
+    "sector": "Insurance Technology",
+    "stage_info": "Series A, 2020",
+    "hostname": "ourbranch.com",
+    "url": "https://ourbranch.com/",
+    "crunchbase_url": "",
+    "description": "Branch is shaking up the insurance industry by providing a way to bundle home and auto insurance in as little as 30 seconds. Using technology and automation, Branch has re-engineered the experience to be quicker and more efficient, making it easier than ever for clients to save money."
+  },
+  {
     "id": "voyager",
     "name": "Voyager Space Holdings",
     "stage": "seed",
@@ -101,7 +140,7 @@
     "hostname": "handle.com",
     "url": "https://www.handle.com/",
     "crunchbase_url": "https://www.crunchbase.com/organization/handle-com",
-    "description": "Handle automates the collection process of unpaid construction invoices by providing an all-in-one lien management platform that \nhelps secure the rights of contractors.  "
+    "description": "Handle automates the collection process of unpaid construction invoices by providing an all-in-one lien management platform that\nhelps secure the rights of contractors.  "
   },
   {
     "id": "loona",
@@ -127,7 +166,7 @@
     "hostname": "achroma.io",
     "url": "https://achroma.io",
     "crunchbase_url": "",
-    "description": "Achroma is a technology social enterprise that eliminates bias and discrimination from financial instruments, hiring, procurement and purchasing. \n\nAchroma uses proprietary AI-based de-identification and scoring technology to remove the possibility of explicit and implicit bias based on race, ethnicity, religion, gender or orientation in  applications processes. "
+    "description": "Achroma is a technology social enterprise that eliminates bias and discrimination from financial instruments, hiring, procurement and purchasing.\n\nAchroma uses proprietary AI-based de-identification and scoring technology to remove the possibility of explicit and implicit bias based on race, ethnicity, religion, gender or orientation in  applications processes. "
   },
   {
     "id": "capture-technologies",
