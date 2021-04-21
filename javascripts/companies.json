@@ -74,8 +74,8 @@
     "stage_info": "Seed, 2020",
     "hostname": "usecanopy.com",
     "url": "https://usecanopy.com/",
-    "crunchbase_url": "",
-    "description": "Canopy Connect beleives consumers deserve delightful, intelligent and frictionless insurance services. We think insurance should be personalized and proactive. Their mission is to enable cutting-edge insurance experiences. Their technology empowers insurance agencies and innovators to deliver modern, personalized insurance services."
+    "crunchbase_url": "https://www.crunchbase.com/organization/canopy-connect",
+    "description": "Canopy Connect believes consumers deserve delightful, intelligent and frictionless insurance services. We think insurance should be personalized and proactive. Their mission is to enable cutting-edge insurance experiences. Their technology empowers insurance agencies and innovators to deliver modern, personalized insurance services."
   },
   {
     "id": "everywhere",
@@ -87,7 +87,7 @@
     "stage_info": "Seed, 2020",
     "hostname": "everywhere.us",
     "url": "https://everywhere.us/",
-    "crunchbase_url": "",
+    "crunchbase_url": "https://www.crunchbase.com/organization/everywhere-apparel",
     "description": "Everywhere produces consumer apparel made from 100% recycled materials. It is striving to become the leading provider of recycled apparel produced in the USA. They are building a vertically integrated USA based recycling system around textile waste."
   },
   {
@@ -100,7 +100,7 @@
     "stage_info": "Series A, 2020",
     "hostname": "ourbranch.com",
     "url": "https://ourbranch.com/",
-    "crunchbase_url": "",
+    "crunchbase_url": "https://www.crunchbase.com/organization/branch-financial",
     "description": "Branch is shaking up the insurance industry by providing a way to bundle home and auto insurance in as little as 30 seconds. Using technology and automation, Branch has re-engineered the experience to be quicker and more efficient, making it easier than ever for clients to save money."
   },
   {
@@ -126,7 +126,7 @@
     "stage_info": "Seed, 2019",
     "hostname": "greenparksports.com",
     "url": "https://greenparksports.com",
-    "crunchbase_url": "",
+    "crunchbase_url": "https://www.crunchbase.com/organization/greenpark-sports",
     "description": "GreenPark Sports is a technology company that focuses on fan engagement experiences for live sports."
   },
   {
@@ -150,9 +150,9 @@
     "logo": "loona.svg",
     "sector": "Consumer App",
     "stage_info": "Seed, 2019",
-    "hostname": "loona.co",
-    "url": "https://loona.co/",
-    "crunchbase_url": "",
+    "hostname": "loona.app",
+    "url": "https://loona.app/",
+    "crunchbase_url": "https://www.crunchbase.com/organization/lo%C3%B3na",
     "description": "Loona is a brand new way to let go of daily fuss and get a better night’s rest. Its unique mixture of visualization, sonic ambience, interaction and storytelling helps to evoke the dreamy nighttime environment and create the ideal conditions for a deep and peaceful slumber."
   },
   {
@@ -283,7 +283,7 @@
     "hostname": "boo.st",
     "url": "https://boo.st/",
     "crunchbase_url": "https://www.crunchbase.com/organization/boost",
-    "description": "Boost generates #hashtags for your products and instantly sell everywhere. Buyers can comment, tweet or text your #hashtags to make a purchase. With Boost, your content is your #commerce.\n\nBoost is based in Los Angelos, California"
+    "description": "Boost generates #hashtags for your products and instantly sell everywhere. Buyers can comment, tweet or text your #hashtags to make a purchase. With Boost, your content is your #commerce.\n\nBoost is based in Los Angeles, California"
   },
   {
     "id": "beyond-games",
@@ -347,7 +347,7 @@
     "stage_info": "Series A, 2017",
     "hostname": "astra.com",
     "url": "https://astra.com/",
-    "crunchbase_url": "",
+    "crunchbase_url": "https://www.crunchbase.com/organization/astra-b6dc",
     "description": "Astra's goal is to reshape how the space industry works, starting with how we get there. By offering smaller more frequent launches, Astra will enable a wave of innovation in low Earth orbit and improve life on our planet through greater connectivity and more regular observation."
   },
   {
@@ -427,5 +427,96 @@
     "url": "https://hyperloop-one.com",
     "crunchbase_url": "https://www.crunchbase.com/organization/hyperloop-technolgies",
     "description": "Hyperloop One is an American transport system company that reinvents transportation to eliminate barriers of time and distance. It designs and builds Hyperloop, a tubular transit system that relies on magnetic levitation technology to transport passengers and cargo between two points immediately.\n\nWith its technology, Hyperloop helps move cargo and passengers immediately, safely, efficiently, and sustainably.\n\nHyperloop One was established in 2014 and is based in Los Angeles, California."
+  },
+  {
+    "id": "galaxyfinancial",
+    "name": "Galaxy Financial",
+    "stage": "seed",
+    "year": "2020",
+    "logo": "galaxy_logo.svg",
+    "sector": "Financial Technology",
+    "stage_info": "Seed, 2020",
+    "hostname": "galaxyfinance.com",
+    "url": "https://www.galaxyfinance.com",
+    "crunchbase_url": "",
+    "description": "Galaxy is a money management platform that helps clients build wealth and earn rewards. By allowing our clients to connect all of their financial accounts to our digital banking service, Galaxy can optimize and automate personal finance in a new way."
+  },
+  {
+    "id": "salty",
+    "name": "Salty",
+    "stage": "seed",
+    "year": "2020",
+    "logo": "salty_logo.svg",
+    "sector": "Financial Technology",
+    "stage_info": "Seed, 2020",
+    "hostname": "wearesalty.com",
+    "url": "https://wearesalty.com/",
+    "crunchbase_url": "https://www.crunchbase.com/organization/salty-dot-insurance-agency",
+    "description": "Salty removes existing consumer impediments to buying the right policy and having the proper coverage. Salty’s platform is a proprietary Software-as-a-Service (SaaS) solution that enables carriers and distribution partners to offer a customized policy to insure a product or service in real-time during the purchase process. The Salty platform uses intelligent systems and analyzes unique data sources about the buyer and the purchase, then sorts through multiple carriers to seamlessly offer the best insurance available. Salty is licensed in all 50 states."
+  },
+  {
+    "id": "welcome-homes",
+    "name": "Welcome Homes",
+    "stage": "seed",
+    "year": "2020",
+    "logo": "welcome_logo.svg",
+    "sector": "Real Estate, Residential",
+    "stage_info": "Seed, 2020",
+    "hostname": "welcomehomes.com",
+    "url": "https://welcomehomes.com/",
+    "crunchbase_url": "https://www.crunchbase.com/organization/welcome-homes",
+    "description": "The future of home building is here. The majority of home buyers settle on purchasing existing homes because they don't want to deal with the complexities of building a new home and they're ultimately concerned about going way over their budget. Our mission is to convert home buyers into home builders by making the process of building a new home simple and enjoyable."
+  },
+  {
+    "id": "talos",
+    "name": "Talos",
+    "stage": "series_a",
+    "year": "2021",
+    "logo": "talos_logo.svg",
+    "sector": "Financial Technology",
+    "stage_info": "Series A, 2021",
+    "hostname": "talos.com",
+    "url": "https://talos.com/",
+    "crunchbase_url": "https://www.crunchbase.com/organization/talos-trading",
+    "description": "We provide the building blocks for true institutional digital asset trading. Our institutional-grade infrastructure technology supports the full lifecycle of digital asset trading, from price discovery to execution through to settlement. Engineered by a team with unmatched experience in building institutional trading systems, our platform is trusted by many of the world’s largest market participants, using it to forge bilateral relationships with all members of the crypto trading ecosystem."
+  },
+  {
+    "id": "alpaca",
+    "name": "Alpaca Markets",
+    "stage": "series_a",
+    "year": "2021",
+    "logo": "alpaca_logo.svg",
+    "sector": "Financial Technology",
+    "stage_info": "Series A, 2021",
+    "hostname": "alpaca.markets",
+    "url": "https://alpaca.markets/",
+    "crunchbase_url": "https://www.crunchbase.com/organization/alpacadb",
+    "description": "Alpaca is an API for Stock Trading. On the platform you can enable to trade with algorithms, connect with apps, build services — all with commission-free stock trading API. Alpaca does the dirty work so developers worldwide can launch their own competitors to that investing unicorn. Like the Stripe of stocks, Alpaca’s API handles the banking, security and regulatory complexity, allowing other startups to quickly build brokerage apps on top for free."
+  },
+  {
+    "id": "flo",
+    "name": "Flo Health",
+    "stage": "series_a",
+    "year": "2021",
+    "logo": "flo_logo.svg",
+    "sector": "Health and Wellness",
+    "stage_info": "Series A, 2021",
+    "hostname": "flo.health",
+    "url": "https://flo.health/",
+    "crunchbase_url": "https://www.crunchbase.com/organization/owhealth",
+    "description": "At Flo, we aim to improve the health and wellbeing of every girl and woman worldwide. We help women put themselves first. Flo exists to empower women by giving them a space they can access the knowledge and support they need to prioritise their health and wellbeing."
+  },
+  {
+    "id": "sportsicon",
+    "name": "SportsIcon",
+    "stage": "seed",
+    "year": "2021",
+    "logo": "sportsIcon_logo.svg",
+    "sector": "Financial Technology",
+    "stage_info": "Seed, 2021",
+    "hostname": "sportsicon.co",
+    "url": "https://www.sportsicon.co/",
+    "crunchbase_url": "",
+    "description": "SportsIcon - NFT's with the greatest sportspeople of all time."
   }
 ]
