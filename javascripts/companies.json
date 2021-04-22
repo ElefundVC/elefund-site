@@ -10,7 +10,8 @@
     "hostname": "robinhood.com",
     "url": "https://robinhood.com",
     "crunchbase_url": "https://www.crunchbase.com/organization/robinhood",
-    "description": "Robinhood is a stock brokerage that allows customers to buy and sell U.S. stocks, options, ETFs, and cryptocurrencies with zero commission."
+    "description": "Robinhood is a stock brokerage that allows customers to buy and sell U.S. stocks, options, ETFs, and cryptocurrencies with zero commission.",
+    "careers": "https://robinhood.com/us/en/careers/"
   },
   {
     "id": "carta",
@@ -23,7 +24,8 @@
     "hostname": "carta.com",
     "url": "https://carta.com",
     "crunchbase_url": "https://www.crunchbase.com/organization/eshares",
-    "description": "Carta is a SEC-registered transfer agent for private companies that enables seed-stage to pre-IPO companies to manage equity electronically with the participation of their shareholders, employees, auditors, and legal counsel. It digitizes paper stock certificates along with stock options, warrants, and derivatives to create a real-time image of who owns what at a startup.\n\nFounded by Manu Kumar and Henry Ward in 2012 as eShares, Carta is based in Mountain View, California.C"
+    "description": "Carta is a SEC-registered transfer agent for private companies that enables seed-stage to pre-IPO companies to manage equity electronically with the participation of their shareholders, employees, auditors, and legal counsel. It digitizes paper stock certificates along with stock options, warrants, and derivatives to create a real-time image of who owns what at a startup.\n\nFounded by Manu Kumar and Henry Ward in 2012 as eShares, Carta is based in Mountain View, California.C",
+    "careers": "https://carta.com/careers/"
   },
   {
     "id": "calm",
@@ -36,7 +38,8 @@
     "hostname": "calm.com",
     "url": "https://www.calm.com",
     "crunchbase_url": "https://www.crunchbase.com/organization/calm-com",
-    "description": "Calm offers an application designed to help its users meditate and relax. The application is available in the App Store and Google Play store.\n\nThe company is driven by a mission to make the world happier and healthier by developing a range of digital and physical products that enhance mental fitness and alleviate some of the most important mental health issues of the modern age including anxiety, depression, insomnia, and stress. Calm was named by Apple as the 2017 iPhone App of the Year and by Google Play as an Editors’ Choice in 2018.\n\nThe company was founded in 2012 and is headquartered in San Francisco, California."
+    "description": "Calm offers an application designed to help its users meditate and relax. The application is available in the App Store and Google Play store.\n\nThe company is driven by a mission to make the world happier and healthier by developing a range of digital and physical products that enhance mental fitness and alleviate some of the most important mental health issues of the modern age including anxiety, depression, insomnia, and stress. Calm was named by Apple as the 2017 iPhone App of the Year and by Google Play as an Editors’ Choice in 2018.\n\nThe company was founded in 2012 and is headquartered in San Francisco, California.",
+    "careers": "https://www.calm.com/careers"
   },
   {
     "id": "pie-insurance",
@@ -49,7 +52,8 @@
     "hostname": "pieinsurance.com",
     "url": "https://pieinsurance.com",
     "crunchbase_url": "https://www.crunchbase.com/organization/pie-insurance",
-    "description": "Pie Insurance is a workers’ compensation insurance company that provides workers’ comp coverage to small businesses through a simple online experience. Offering A.M. Best A rated insurance, Pie leverages data analytics, easy-to-use online features, and a seasoned team of insurance experts to revolutionize workers’ comp for small businesses.\n\nAs a technology-enabled workers’ compensation insurance company, Pie leverages extensive, high-quality data sets to segment and price small business policies, accurately assessing risks and passing savings on to small business owners.\n\nPie began selling workers comp insurance policies direct to customers in 2018. The company is led by co-founder and CEO John Swigart."
+    "description": "Pie Insurance is a workers’ compensation insurance company that provides workers’ comp coverage to small businesses through a simple online experience. Offering A.M. Best A rated insurance, Pie leverages data analytics, easy-to-use online features, and a seasoned team of insurance experts to revolutionize workers’ comp for small businesses.\n\nAs a technology-enabled workers’ compensation insurance company, Pie leverages extensive, high-quality data sets to segment and price small business policies, accurately assessing risks and passing savings on to small business owners.\n\nPie began selling workers comp insurance policies direct to customers in 2018. The company is led by co-founder and CEO John Swigart.",
+    "careers": "https://pieinsurance.com/careers/"
   },
   {
     "id": "hotel-engine",
@@ -62,7 +66,8 @@
     "hostname": "hotelengine.com",
     "url": "https://www.hotelengine.com",
     "crunchbase_url": "https://www.crunchbase.com/organization/hotel-engine",
-    "description": "Launched in November of 2014, Hotel Engine is a Denver-grown startup with the mission to provide meaningful innovation and exclusive savings for the nation's traveling workforce.\n\nToday, Hotel Engine empowers companies to save and streamline instantly - connecting hundreds of companies with thousands of travelers and hotel partners to an exclusive membership platform."
+    "description": "Launched in November of 2014, Hotel Engine is a Denver-grown startup with the mission to provide meaningful innovation and exclusive savings for the nation's traveling workforce.\n\nToday, Hotel Engine empowers companies to save and streamline instantly - connecting hundreds of companies with thousands of travelers and hotel partners to an exclusive membership platform.",
+    "careers": "https://www.hotelengine.com/careers/"
   },
   {
     "id": "canopy",
@@ -75,7 +80,8 @@
     "hostname": "usecanopy.com",
     "url": "https://usecanopy.com/",
     "crunchbase_url": "https://www.crunchbase.com/organization/canopy-connect",
-    "description": "Canopy Connect believes consumers deserve delightful, intelligent and frictionless insurance services. We think insurance should be personalized and proactive. Their mission is to enable cutting-edge insurance experiences. Their technology empowers insurance agencies and innovators to deliver modern, personalized insurance services."
+    "description": "Canopy Connect believes consumers deserve delightful, intelligent and frictionless insurance services. We think insurance should be personalized and proactive. Their mission is to enable cutting-edge insurance experiences. Their technology empowers insurance agencies and innovators to deliver modern, personalized insurance services.",
+    "careers": "hello@usecanopy.com"
   },
   {
     "id": "everywhere",
@@ -88,7 +94,8 @@
     "hostname": "everywhere.us",
     "url": "https://everywhere.us/",
     "crunchbase_url": "https://www.crunchbase.com/organization/everywhere-apparel",
-    "description": "Everywhere produces consumer apparel made from 100% recycled materials. It is striving to become the leading provider of recycled apparel produced in the USA. They are building a vertically integrated USA based recycling system around textile waste."
+    "description": "Everywhere produces consumer apparel made from 100% recycled materials. It is striving to become the leading provider of recycled apparel produced in the USA. They are building a vertically integrated USA based recycling system around textile waste.",
+    "careers": "https://everywhere.us/pages/careers"
   },
   {
     "id": "branch",
@@ -101,7 +108,8 @@
     "hostname": "ourbranch.com",
     "url": "https://ourbranch.com/",
     "crunchbase_url": "https://www.crunchbase.com/organization/branch-financial",
-    "description": "Branch is shaking up the insurance industry by providing a way to bundle home and auto insurance in as little as 30 seconds. Using technology and automation, Branch has re-engineered the experience to be quicker and more efficient, making it easier than ever for clients to save money."
+    "description": "Branch is shaking up the insurance industry by providing a way to bundle home and auto insurance in as little as 30 seconds. Using technology and automation, Branch has re-engineered the experience to be quicker and more efficient, making it easier than ever for clients to save money.",
+    "careers": "https://ourbranch.com/s/careers"
   },
   {
     "id": "voyager",
@@ -114,7 +122,8 @@
     "hostname": "voyagerspaceholdings.com",
     "url": "https://voyagerspaceholdings.com/",
     "crunchbase_url": "https://www.crunchbase.com/organization/voyager-space-holdings",
-    "description": "Voyager Space Holdings is a privately held global holding company acquiring and operating companies in the space exploration industry. Voyager seeks to increase vertical integration and mission capability to enable humanity’s most ambitious projects."
+    "description": "Voyager Space Holdings is a privately held global holding company acquiring and operating companies in the space exploration industry. Voyager seeks to increase vertical integration and mission capability to enable humanity’s most ambitious projects.",
+    "careers": "https://voyagerspaceholdings.com/careers/"
   },
   {
     "id": "greenpark",
@@ -127,7 +136,8 @@
     "hostname": "greenparksports.com",
     "url": "https://greenparksports.com",
     "crunchbase_url": "https://www.crunchbase.com/organization/greenpark-sports",
-    "description": "GreenPark Sports is a technology company that focuses on fan engagement experiences for live sports."
+    "description": "GreenPark Sports is a technology company that focuses on fan engagement experiences for live sports.",
+    "careers": "https://boards.greenhouse.io/greenparksports"
   },
   {
     "id": "handle",
@@ -140,7 +150,8 @@
     "hostname": "handle.com",
     "url": "https://www.handle.com/",
     "crunchbase_url": "https://www.crunchbase.com/organization/handle-com",
-    "description": "Handle automates the collection process of unpaid construction invoices by providing an all-in-one lien management platform that\nhelps secure the rights of contractors.  "
+    "description": "Handle automates the collection process of unpaid construction invoices by providing an all-in-one lien management platform that\nhelps secure the rights of contractors.  ",
+    "careers": "https://www.linkedin.com/company/handlecorporation/jobs/"
   },
   {
     "id": "loona",
@@ -153,7 +164,8 @@
     "hostname": "loona.app",
     "url": "https://loona.app/",
     "crunchbase_url": "https://www.crunchbase.com/organization/lo%C3%B3na",
-    "description": "Loona is a brand new way to let go of daily fuss and get a better night’s rest. Its unique mixture of visualization, sonic ambience, interaction and storytelling helps to evoke the dreamy nighttime environment and create the ideal conditions for a deep and peaceful slumber."
+    "description": "Loona is a brand new way to let go of daily fuss and get a better night’s rest. Its unique mixture of visualization, sonic ambience, interaction and storytelling helps to evoke the dreamy nighttime environment and create the ideal conditions for a deep and peaceful slumber.",
+    "careers": "https://loona.app/jobs.html"
   },
   {
     "id": "achroma",
@@ -166,7 +178,8 @@
     "hostname": "achroma.io",
     "url": "https://achroma.io",
     "crunchbase_url": "",
-    "description": "Achroma is a technology social enterprise that eliminates bias and discrimination from financial instruments, hiring, procurement and purchasing.\n\nAchroma uses proprietary AI-based de-identification and scoring technology to remove the possibility of explicit and implicit bias based on race, ethnicity, religion, gender or orientation in  applications processes. "
+    "description": "Achroma is a technology social enterprise that eliminates bias and discrimination from financial instruments, hiring, procurement and purchasing.\n\nAchroma uses proprietary AI-based de-identification and scoring technology to remove the possibility of explicit and implicit bias based on race, ethnicity, religion, gender or orientation in  applications processes. ",
+    "careers": "team@achroma.io"
   },
   {
     "id": "capture-technologies",
@@ -179,7 +192,8 @@
     "hostname": "capture.tech",
     "url": "https://capture.tech",
     "crunchbase_url": "https://www.crunchbase.com/organization/capture-tech",
-    "description": "Capture Technologies is a technology and social media company. The company's mission is to bring an absolutely new and unique experience to how people interact with each other. Capture Technologies works closely with AI."
+    "description": "Capture Technologies is a technology and social media company. The company's mission is to bring an absolutely new and unique experience to how people interact with each other. Capture Technologies works closely with AI.",
+    "careers": "contact@capture.camera"
   },
   {
     "id": "landed",
@@ -192,7 +206,8 @@
     "hostname": "landed.com",
     "url": "https://www.landed.com",
     "crunchbase_url": "https://www.crunchbase.com/organization/landed",
-    "description": "Landed is on a mission to help essential professionals build financial security near the communities they serve. Based in San Francisco, the company invests alongside educators when they are ready to buy a home in expensive markets like the Bay Area, Denver, Seattle, and Southern California."
+    "description": "Landed is on a mission to help essential professionals build financial security near the communities they serve. Based in San Francisco, the company invests alongside educators when they are ready to buy a home in expensive markets like the Bay Area, Denver, Seattle, and Southern California.",
+    "careers": "https://www.landed.com/jobs"
   },
   {
     "id": "nimbella",
@@ -205,7 +220,8 @@
     "hostname": "nimbella.com",
     "url": "https://nimbella.com",
     "crunchbase_url": "https://www.crunchbase.com/organization/nimbella",
-    "description": "Serverless computing today is nascent, and is lacking the abstractions, automation, and integrations that have proven necessary to accelerate the adoption of technology in new markets and application domains. Nimbella fills the technology gaps and unifies the programming experience around serverless to deliver a complete and integrated solution that works across clouds. It is designed from the ground up to address the needs of event-based applications, long running applications, stateful workloads, and more complex use cases that employ artificial intelligence and machine learning."
+    "description": "Serverless computing today is nascent, and is lacking the abstractions, automation, and integrations that have proven necessary to accelerate the adoption of technology in new markets and application domains. Nimbella fills the technology gaps and unifies the programming experience around serverless to deliver a complete and integrated solution that works across clouds. It is designed from the ground up to address the needs of event-based applications, long running applications, stateful workloads, and more complex use cases that employ artificial intelligence and machine learning.",
+    "careers": "https://nimbella.com/join-us"
   },
   {
     "id": "workramp",
@@ -218,7 +234,8 @@
     "hostname": "workramp.com",
     "url": "https://www.workramp.com",
     "crunchbase_url": "https://www.crunchbase.com/organization/workramp",
-    "description": "WorkRamp is a platform for training the next generation of our workforce. WorkRamp is building the world's first Enablement Cloud™ to bridge the gap between strategy and execution.\n\nWorkRamp helps companies perform at their highest levels through end to end enablement software."
+    "description": "WorkRamp is a platform for training the next generation of our workforce. WorkRamp is building the world's first Enablement Cloud™ to bridge the gap between strategy and execution.\n\nWorkRamp helps companies perform at their highest levels through end to end enablement software.",
+    "careers": "https://jobs.lever.co/workramp"
   },
   {
     "id": "10by10",
@@ -231,7 +248,8 @@
     "hostname": "10by10.io",
     "url": "https://www.10by10.io",
     "crunchbase_url": "https://www.crunchbase.com/organization/10-by-10",
-    "description": "10by10 uses AI to quickly match qualified candidates with companies by aggregating data across recruitment agencies."
+    "description": "10by10 uses AI to quickly match qualified candidates with companies by aggregating data across recruitment agencies.",
+    "careers": "https://team10x10.typeform.com/to/NJPbEA"
   },
   {
     "id": "astranis",
@@ -244,7 +262,8 @@
     "hostname": "astranis.com",
     "url": "https://www.astranis.com",
     "crunchbase_url": "https://www.crunchbase.com/organization/astranis",
-    "description": "Astranis is building small, low-cost telecommunications satellites.\n\nFounded in 2015, Astranis is a developer of a new satellite technology that aims to transmit data down to specific terrestrial locations with each satellite it launches. The company's mission is to help get online the 4 billion people who are without internet access."
+    "description": "Astranis is building small, low-cost telecommunications satellites.\n\nFounded in 2015, Astranis is a developer of a new satellite technology that aims to transmit data down to specific terrestrial locations with each satellite it launches. The company's mission is to help get online the 4 billion people who are without internet access.",
+    "careers": "https://www.astranis.com/careers"
   },
   {
     "id": "citybldr",
@@ -257,7 +276,8 @@
     "hostname": "citybldr.com",
     "url": "https://www.citybldr.com",
     "crunchbase_url": "https://www.crunchbase.com/organization/rebls",
-    "description": "CityBldr determines the highest and best use of land and connects buyers and sellers of underutilized property."
+    "description": "CityBldr determines the highest and best use of land and connects buyers and sellers of underutilized property.",
+    "careers": "https://www.citybldr.com/careers"
   },
   {
     "id": "commonstock",
@@ -270,7 +290,8 @@
     "hostname": "commonstock.com",
     "url": "https://www.commonstock.com",
     "crunchbase_url": "https://www.crunchbase.com/organization/groupstake-2",
-    "description": "CommonStock is group-chat for investing: get alerts when friends trade, see what friends own (by %), and see who's best in the group."
+    "description": "CommonStock is group-chat for investing: get alerts when friends trade, see what friends own (by %), and see who's best in the group.",
+    "careers": "https://boards.greenhouse.io/commonstock"
   },
   {
     "id": "boost",
@@ -283,7 +304,8 @@
     "hostname": "boo.st",
     "url": "https://boo.st/",
     "crunchbase_url": "https://www.crunchbase.com/organization/boost",
-    "description": "Boost generates #hashtags for your products and instantly sell everywhere. Buyers can comment, tweet or text your #hashtags to make a purchase. With Boost, your content is your #commerce.\n\nBoost is based in Los Angeles, California"
+    "description": "Boost generates #hashtags for your products and instantly sell everywhere. Buyers can comment, tweet or text your #hashtags to make a purchase. With Boost, your content is your #commerce.\n\nBoost is based in Los Angeles, California",
+    "careers": "support@boo.st"
   },
   {
     "id": "beyond-games",
@@ -296,7 +318,8 @@
     "hostname": "beyondgames.co",
     "url": "https://www.beyondgames.co",
     "crunchbase_url": "https://www.crunchbase.com/organization/beyond-games-2",
-    "description": "Beyond Games provides online and interactive games for users across the United States."
+    "description": "Beyond Games provides online and interactive games for users across the United States.",
+    "careers": ""
   },
   {
     "id": "careport-health",
@@ -309,7 +332,8 @@
     "hostname": "careporthealth.com",
     "url": "https://careporthealth.com/",
     "crunchbase_url": "https://www.crunchbase.com/organization/careport-health",
-    "description": "Careport Health is an online booking engine for post-hospital care.\n\nThe company helps direct patients and family to learn about what type of care they may need, and what to expect during recovery, after filling in basic patient information. Patients can then search for post-hospital care providers and book care through Careport Health's software. Hospitals can link into Careport Health's network to help evaluate and manage patients, and connect them with the post-hospital care they will need. Finally, post-hospital care providers can connect with Careport Health to make themselves available to the company's network and bring in additional business. They can also track patient progress.\n\nCareport was acquired by Allscripts in 2016."
+    "description": "Careport Health is an online booking engine for post-hospital care.\n\nThe company helps direct patients and family to learn about what type of care they may need, and what to expect during recovery, after filling in basic patient information. Patients can then search for post-hospital care providers and book care through Careport Health's software. Hospitals can link into Careport Health's network to help evaluate and manage patients, and connect them with the post-hospital care they will need. Finally, post-hospital care providers can connect with Careport Health to make themselves available to the company's network and bring in additional business. They can also track patient progress.\n\nCareport was acquired by Allscripts in 2016.",
+    "careers": ""
   },
   {
     "id": "pogoseat",
@@ -322,7 +346,8 @@
     "hostname": "pogoseat.com",
     "url": "https://www.pogoseat.com",
     "crunchbase_url": "https://www.crunchbase.com/organization/pogoseat",
-    "description": "Pogoseat is an enterprise solution for sports teams and concert venues that enables their fans to upgrade seats and purchase unique VIP upgrades during events. Their mission is to provide fans with the ability to optimize their live entertainment experience and teams and venues a platform to increase fan engagement, monetize unused inventory and gather data to improve the fan experience."
+    "description": "Pogoseat is an enterprise solution for sports teams and concert venues that enables their fans to upgrade seats and purchase unique VIP upgrades during events. Their mission is to provide fans with the ability to optimize their live entertainment experience and teams and venues a platform to increase fan engagement, monetize unused inventory and gather data to improve the fan experience.",
+    "careers": "https://www.pogoseat.com/careers"
   },
   {
     "id": "fidel",
@@ -335,7 +360,8 @@
     "hostname": "fidel.uk",
     "url": "https://fidel.uk/",
     "crunchbase_url": "https://www.crunchbase.com/organization/fidel",
-    "description": "Fidel’s mission is to democratise access to consumer financial data, globally.\n\nFidel is working to build a world where power and control of data shifts back to its creator - the consumer. Fidel makes transactional data accessible through a single access point so businesses can create web and mobile applications using real-time payment data. By linking customer payment cards to reward programmes, businesses like British Airways, Perkbox and Royal Bank of Canada are turning payments into loyalty.\n\nFidel is backed by the U.K’s Technology Strategy Board (Innovate U.K.) and Horizons Ventures."
+    "description": "Fidel’s mission is to democratise access to consumer financial data, globally.\n\nFidel is working to build a world where power and control of data shifts back to its creator - the consumer. Fidel makes transactional data accessible through a single access point so businesses can create web and mobile applications using real-time payment data. By linking customer payment cards to reward programmes, businesses like British Airways, Perkbox and Royal Bank of Canada are turning payments into loyalty.\n\nFidel is backed by the U.K’s Technology Strategy Board (Innovate U.K.) and Horizons Ventures.",
+    "careers": "https://fidel.uk/careers"
   },
   {
     "id": "astra",
@@ -348,7 +374,8 @@
     "hostname": "astra.com",
     "url": "https://astra.com/",
     "crunchbase_url": "https://www.crunchbase.com/organization/astra-b6dc",
-    "description": "Astra's goal is to reshape how the space industry works, starting with how we get there. By offering smaller more frequent launches, Astra will enable a wave of innovation in low Earth orbit and improve life on our planet through greater connectivity and more regular observation."
+    "description": "Astra's goal is to reshape how the space industry works, starting with how we get there. By offering smaller more frequent launches, Astra will enable a wave of innovation in low Earth orbit and improve life on our planet through greater connectivity and more regular observation.",
+    "careers": "https://astra.com/careers/"
   },
   {
     "id": "secfi",
@@ -361,7 +388,8 @@
     "hostname": "secfi.com",
     "url": "https://www.secfi.com",
     "crunchbase_url": "https://www.crunchbase.com/organization/secfi",
-    "description": "SecFi creates equity planning tools that are designed to help private company shareholders and their professional advisors make better financial decisions for their equity from offer to IPO."
+    "description": "SecFi creates equity planning tools that are designed to help private company shareholders and their professional advisors make better financial decisions for their equity from offer to IPO.",
+    "careers": "https://www.secfi.com/careers"
   },
   {
     "id": "fleet",
@@ -374,7 +402,8 @@
     "hostname": "tryfleet.com",
     "url": "https://www.tryfleet.com",
     "crunchbase_url": "https://www.crunchbase.com/organization/shipstr",
-    "description": "Fleet provides an online platform that businesses use to book and manage transportation for international freight.\n\nFleet is the first platform to address the needs of shippers moving commercial freight overseas. Fleet provides instant quotes, improved decision making by showing provider lead times, ratings and reliability, direct access to all of the service providers and a team room to communicate directly with service providers for status and view shipping documents."
+    "description": "Fleet provides an online platform that businesses use to book and manage transportation for international freight.\n\nFleet is the first platform to address the needs of shippers moving commercial freight overseas. Fleet provides instant quotes, improved decision making by showing provider lead times, ratings and reliability, direct access to all of the service providers and a team room to communicate directly with service providers for status and view shipping documents.",
+    "careers": "help@gokoho.com"
   },
   {
     "id": "radar",
@@ -387,7 +416,8 @@
     "hostname": "radar.tech",
     "url": "https://radar.tech",
     "crunchbase_url": "https://www.crunchbase.com/organization/radar-relay",
-    "description": "Radar builds products for our next financial system. As the first company in Colorado history to receive a state grant for blockchain technology, Radar is building the pipes now, the roads in the years to come, and the scaffolding for the next few decades.\n\nRadar's first product, RADAR RELAY, is a wallet-to-wallet decentralized trading platform. Since launch in late 2017, Radar has helped users from over 150 countries around the world trade more than $200m worth of tokens. With their $10m Series A Radar launched their second product, RADAR ION, a guide to getting started on the Lightning Network."
+    "description": "Radar builds products for our next financial system. As the first company in Colorado history to receive a state grant for blockchain technology, Radar is building the pipes now, the roads in the years to come, and the scaffolding for the next few decades.\n\nRadar's first product, RADAR RELAY, is a wallet-to-wallet decentralized trading platform. Since launch in late 2017, Radar has helped users from over 150 countries around the world trade more than $200m worth of tokens. With their $10m Series A Radar launched their second product, RADAR ION, a guide to getting started on the Lightning Network.",
+    "careers": "https://radar.tech/careers"
   },
   {
     "id": "fastly",
@@ -400,7 +430,8 @@
     "hostname": "fastly.com",
     "url": "https://www.fastly.com",
     "crunchbase_url": "https://www.crunchbase.com/organization/fastly",
-    "description": "Fastly helps the world’s most popular digital businesses keep pace with their customer expectations by delivering fast, secure, and scalable online experiences. Businesses trust the Fastly edge cloud platform to accelerate the pace of technical innovation, mitigate evolving threats, and scale on demand.\n\nFounded in 2011, Fastly powers online destinations including Airbnb, GitHub, Alaska Airlines, Pinterest, Vimeo, The Guardian, The New York Times and Ticketmaster.\n\nThe company is headquartered in San Francisco, California, United States."
+    "description": "Fastly helps the world’s most popular digital businesses keep pace with their customer expectations by delivering fast, secure, and scalable online experiences. Businesses trust the Fastly edge cloud platform to accelerate the pace of technical innovation, mitigate evolving threats, and scale on demand.\n\nFounded in 2011, Fastly powers online destinations including Airbnb, GitHub, Alaska Airlines, Pinterest, Vimeo, The Guardian, The New York Times and Ticketmaster.\n\nThe company is headquartered in San Francisco, California, United States.",
+    "careers": "https://www.fastly.com/about/careers"
   },
   {
     "id": "sonic-energy",
@@ -413,7 +444,8 @@
     "hostname": "sonicenergy.com",
     "url": "https://sonicenergy.com/",
     "crunchbase_url": "https://www.crunchbase.com/organization/ubeam",
-    "description": "SonicEnergy’s proprietary transducers, transmitters, receivers, and software deliver wire-free power-at-a-distance of meters to units ranging from IoT devices, medical & aerospace systems, to portable electronics products. A turnkey hardware and software solution delivering Always-On Wireless Energy."
+    "description": "SonicEnergy’s proprietary transducers, transmitters, receivers, and software deliver wire-free power-at-a-distance of meters to units ranging from IoT devices, medical & aerospace systems, to portable electronics products. A turnkey hardware and software solution delivering Always-On Wireless Energy.",
+    "careers": "https://sonicenergy.com/contact/"
   },
   {
     "id": "hyperloop-one",
@@ -426,7 +458,8 @@
     "hostname": "hyperloop-one.com",
     "url": "https://hyperloop-one.com",
     "crunchbase_url": "https://www.crunchbase.com/organization/hyperloop-technolgies",
-    "description": "Hyperloop One is an American transport system company that reinvents transportation to eliminate barriers of time and distance. It designs and builds Hyperloop, a tubular transit system that relies on magnetic levitation technology to transport passengers and cargo between two points immediately.\n\nWith its technology, Hyperloop helps move cargo and passengers immediately, safely, efficiently, and sustainably.\n\nHyperloop One was established in 2014 and is based in Los Angeles, California."
+    "description": "Hyperloop One is an American transport system company that reinvents transportation to eliminate barriers of time and distance. It designs and builds Hyperloop, a tubular transit system that relies on magnetic levitation technology to transport passengers and cargo between two points immediately.\n\nWith its technology, Hyperloop helps move cargo and passengers immediately, safely, efficiently, and sustainably.\n\nHyperloop One was established in 2014 and is based in Los Angeles, California.",
+    "careers": "https://virginhyperloop.com/careers"
   },
   {
     "id": "galaxyfinancial",
@@ -439,7 +472,8 @@
     "hostname": "galaxyfinance.com",
     "url": "https://www.galaxyfinance.com",
     "crunchbase_url": "",
-    "description": "Galaxy is a money management platform that helps clients build wealth and earn rewards. By allowing our clients to connect all of their financial accounts to our digital banking service, Galaxy can optimize and automate personal finance in a new way."
+    "description": "Galaxy is a money management platform that helps clients build wealth and earn rewards. By allowing our clients to connect all of their financial accounts to our digital banking service, Galaxy can optimize and automate personal finance in a new way.",
+    "careers": "https://www.galaxyfinance.com/about"
   },
   {
     "id": "salty",
@@ -452,7 +486,8 @@
     "hostname": "wearesalty.com",
     "url": "https://wearesalty.com/",
     "crunchbase_url": "https://www.crunchbase.com/organization/salty-dot-insurance-agency",
-    "description": "Salty removes existing consumer impediments to buying the right policy and having the proper coverage. Salty’s platform is a proprietary Software-as-a-Service (SaaS) solution that enables carriers and distribution partners to offer a customized policy to insure a product or service in real-time during the purchase process. The Salty platform uses intelligent systems and analyzes unique data sources about the buyer and the purchase, then sorts through multiple carriers to seamlessly offer the best insurance available. Salty is licensed in all 50 states."
+    "description": "Salty removes existing consumer impediments to buying the right policy and having the proper coverage. Salty’s platform is a proprietary Software-as-a-Service (SaaS) solution that enables carriers and distribution partners to offer a customized policy to insure a product or service in real-time during the purchase process. The Salty platform uses intelligent systems and analyzes unique data sources about the buyer and the purchase, then sorts through multiple carriers to seamlessly offer the best insurance available. Salty is licensed in all 50 states.",
+    "careers": "https://wearesalty.com/careers/"
   },
   {
     "id": "welcome-homes",
@@ -465,7 +500,8 @@
     "hostname": "welcomehomes.com",
     "url": "https://welcomehomes.com/",
     "crunchbase_url": "https://www.crunchbase.com/organization/welcome-homes",
-    "description": "The future of home building is here. The majority of home buyers settle on purchasing existing homes because they don't want to deal with the complexities of building a new home and they're ultimately concerned about going way over their budget. Our mission is to convert home buyers into home builders by making the process of building a new home simple and enjoyable."
+    "description": "The future of home building is here. The majority of home buyers settle on purchasing existing homes because they don't want to deal with the complexities of building a new home and they're ultimately concerned about going way over their budget. Our mission is to convert home buyers into home builders by making the process of building a new home simple and enjoyable.",
+    "careers": "https://welcomehomes.com/careers"
   },
   {
     "id": "alpaca",
@@ -478,7 +514,8 @@
     "hostname": "alpaca.markets",
     "url": "https://alpaca.markets/",
     "crunchbase_url": "https://www.crunchbase.com/organization/alpacadb",
-    "description": "Alpaca is an API for Stock Trading. On the platform you can enable to trade with algorithms, connect with apps, build services — all with commission-free stock trading API. Alpaca does the dirty work so developers worldwide can launch their own competitors to that investing unicorn. Like the Stripe of stocks, Alpaca’s API handles the banking, security and regulatory complexity, allowing other startups to quickly build brokerage apps on top for free."
+    "description": "Alpaca is an API for Stock Trading. On the platform you can enable to trade with algorithms, connect with apps, build services — all with commission-free stock trading API. Alpaca does the dirty work so developers worldwide can launch their own competitors to that investing unicorn. Like the Stripe of stocks, Alpaca’s API handles the banking, security and regulatory complexity, allowing other startups to quickly build brokerage apps on top for free.",
+    "careers": "https://jobs.ashbyhq.com/Alpaca"
   },
   {
     "id": "flo",
@@ -491,7 +528,8 @@
     "hostname": "flo.health",
     "url": "https://flo.health/",
     "crunchbase_url": "https://www.crunchbase.com/organization/owhealth",
-    "description": "At Flo, we aim to improve the health and wellbeing of every girl and woman worldwide. We help women put themselves first. Flo exists to empower women by giving them a space they can access the knowledge and support they need to prioritise their health and wellbeing."
+    "description": "At Flo, we aim to improve the health and wellbeing of every girl and woman worldwide. We help women put themselves first. Flo exists to empower women by giving them a space they can access the knowledge and support they need to prioritise their health and wellbeing.",
+    "careers": "https://flo.health/careers"
   },
   {
     "id": "sportsicon",
@@ -504,6 +542,7 @@
     "hostname": "sportsicon.co",
     "url": "https://www.sportsicon.co/",
     "crunchbase_url": "",
-    "description": "SportsIcon - NFTs with the greatest sportspeople of all time."
+    "description": "SportsIcon - NFTs with the greatest sportspeople of all time.",
+    "careers": "https://www.sportsicon.co/"
   }
 ]

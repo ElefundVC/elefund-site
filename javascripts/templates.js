@@ -11,6 +11,17 @@ this["Elefund"]["templates"]["portfolio-details"] = Handlebars.template({"1":fun
   return "        <a href=\""
     + container.escapeExpression(((helper = (helper = lookupProperty(helpers,"crunchbase_url") || (depth0 != null ? lookupProperty(depth0,"crunchbase_url") : depth0)) != null ? helper : container.hooks.helperMissing),(typeof helper === "function" ? helper.call(depth0 != null ? depth0 : (container.nullContext || {}),{"name":"crunchbase_url","hash":{},"data":data,"loc":{"start":{"line":23,"column":17},"end":{"line":23,"column":37}}}) : helper)))
     + "\" target=\"_blank\">Crunchbase <i class=\"icomoon icon-arrow-right\"></i></a>\n";
+},"3":function(container,depth0,helpers,partials,data) {
+    var helper, lookupProperty = container.lookupProperty || function(parent, propertyName) {
+        if (Object.prototype.hasOwnProperty.call(parent, propertyName)) {
+          return parent[propertyName];
+        }
+        return undefined
+    };
+
+  return "      <a href=\""
+    + container.escapeExpression(((helper = (helper = lookupProperty(helpers,"careers") || (depth0 != null ? lookupProperty(depth0,"careers") : depth0)) != null ? helper : container.hooks.helperMissing),(typeof helper === "function" ? helper.call(depth0 != null ? depth0 : (container.nullContext || {}),{"name":"careers","hash":{},"data":data,"loc":{"start":{"line":27,"column":15},"end":{"line":27,"column":28}}}) : helper)))
+    + "\" target=\"_blank\">Careers <i class=\"icomoon icon-arrow-right\"></i></a>\n";
 },"compiler":[8,">= 4.3.0"],"main":function(container,depth0,helpers,partials,data) {
     var stack1, helper, alias1=depth0 != null ? depth0 : (container.nullContext || {}), alias2=container.hooks.helperMissing, alias3="function", alias4=container.escapeExpression, lookupProperty = container.lookupProperty || function(parent, propertyName) {
         if (Object.prototype.hasOwnProperty.call(parent, propertyName)) {
@@ -39,7 +50,9 @@ this["Elefund"]["templates"]["portfolio-details"] = Handlebars.template({"1":fun
     + alias4(((helper = (helper = lookupProperty(helpers,"url") || (depth0 != null ? lookupProperty(depth0,"url") : depth0)) != null ? helper : alias2),(typeof helper === alias3 ? helper.call(alias1,{"name":"url","hash":{},"data":data,"loc":{"start":{"line":25,"column":15},"end":{"line":25,"column":24}}}) : helper)))
     + "\" target=\"_blank\">"
     + alias4(((helper = (helper = lookupProperty(helpers,"hostname") || (depth0 != null ? lookupProperty(depth0,"hostname") : depth0)) != null ? helper : alias2),(typeof helper === alias3 ? helper.call(alias1,{"name":"hostname","hash":{},"data":data,"loc":{"start":{"line":25,"column":42},"end":{"line":25,"column":56}}}) : helper)))
-    + " <i class=\"icomoon icon-arrow-right\"></i></a>\n    </div>\n\n  </div>\n</div>\n";
+    + " <i class=\"icomoon icon-arrow-right\"></i></a>\n"
+    + ((stack1 = lookupProperty(helpers,"if").call(alias1,(depth0 != null ? lookupProperty(depth0,"careers") : depth0),{"name":"if","hash":{},"fn":container.program(3, data, 0),"inverse":container.noop,"data":data,"loc":{"start":{"line":26,"column":6},"end":{"line":28,"column":13}}})) != null ? stack1 : "")
+    + "    </div>\n\n  </div>\n</div>\n";
 },"useData":true});
 this["Elefund"]["templates"]["portfolio-items"] = Handlebars.template({"1":function(container,depth0,helpers,partials,data) {
     var helper, alias1=depth0 != null ? depth0 : (container.nullContext || {}), alias2=container.hooks.helperMissing, alias3="function", alias4=container.escapeExpression, lookupProperty = container.lookupProperty || function(parent, propertyName) {
