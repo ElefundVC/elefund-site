@@ -131,6 +131,21 @@ $(document).ready(function() {
 
   }
 
+  if ($('#portfolio-quotes-slider').length) {
+    $('#portfolio-quotes-slider').slick({
+      arrows: false,
+      autoplay: true,
+      autoplaySpeed: 5000,
+      pauseOnHover: false,
+      pauseOnFocus: false,
+      swipe: false,
+      touchMove: false,
+      draggable: false,
+      fade: true,
+      infinite: true
+    })
+  }
+
   if ($('.js-slider').length) {
 
     $('.js-slider-next').on('click', function() {
@@ -173,6 +188,10 @@ $(document).ready(function() {
     text = Handlebars.Utils.escapeExpression(text);
     text = text.replace(/(\r\n|\n|\r)/gm, '<br>');
     return new Handlebars.SafeString(text);
-});
+  })
+
+  Handlebars.registerHelper('capitalize', function (text) {
+    return text.charAt(0).toUpperCase() + text.slice(1)
+  })
 
 })
